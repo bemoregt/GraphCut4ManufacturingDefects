@@ -6,6 +6,14 @@ Implementation of GrabCut algorithm for manufacturing defect detection and segme
 
 This project uses the GrabCut algorithm from OpenCV to segment and isolate manufacturing defects in images. The implementation focuses on automatically separating defect regions from the background, which is particularly useful in quality control applications for manufacturing processes.
 
+## Sample Results
+
+Here are some example results from the defect segmentation process:
+
+![Sample Defect Image 1](download-2.png)
+
+![Sample Defect Image 2](download-4.png)
+
 ## Features
 
 - Automated defect segmentation using GrabCut algorithm
